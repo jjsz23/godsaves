@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>God saves and frees</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <section class="principal container">
+        <div class="container__caixa">
+            <h1 class="container__titulo">As melhores pregações de 2024.</h1>
+            <img src="colossenses.jpeg" alt="paginas para aqueles que amam a palavra e desejam aprender mais" class="container__imagem" style="max-height: 50%;">
+            <a href="www.alura.com.br" class="container__botao">pregações + sermões apartir R$ 90,00*</a>
+            <a href="www.alura.com.br" class="container__botao botao_secundario">teste gratis de 1 mês experimente!</a>
+            <p class="container__aviso">*O preço único.</p>
+        </div>
+    </section>
+
+    <section class="container secundario">
+        <img src="joao.jpeg" alt="pregadores" class="secundario__imagem" style="max-height: 90%;">
+        <div class="container__descricao">
+            <h2 class="descricao__titulo">Assista do seu jeito</h2>
+            <p class="descricao__texto">pregações completas, que podem ser assistida onde você quiser, computador,tablet,tv, em seu celular, entre outros, aproveite já.</p>
+        </div>
+    </section>
+
+    <section class="container secundario">
+        <div class="container__descricao">
+            <p class="descricao__texto">
+                Só Deus transforma, mas é você que deve se esforçar e se aprofundar em sua palavra.
+            </p>
+            <a href="www.alura.com.br" class="container__botao secundario__botao" container>Assine agora!</a>
+        </div>
+        <img src="busque.jpeg" alt="busque" class="secundario__imagem">
+    </section>
+
+    <section class="container secundario">
+        <img src="teologia.jpeg" alt="Notebook com a página do curso HTML5 e CSS3 da Alura aberta"
+            class="secundario__imagem">
+        <div class="container__descricao">
+            <h2 class="descricao__titulo">Baixe seus cursos</h2>
+            <p class="descricao__texto">Baixe e assista quando e onde quiser. Assim, seus favoritos estão sempre com
+                você, até mesmo sem internet.</p>
+        </div>
+    </section>
+    
+    <section class="dispositivos">
+        <h2 class="dispositivos__titulo">Disponível nos seus dispositivos favoritos</h2>
+        <ul class="dispositivos__lista">
+            <li>
+                <img src="tv.jpeg" alt="Ícone de televisão" style="max-height: 0%;">
+                <h3 class="lista__item">TV</h3>
+            </li>
+            <li>
+                <img src="computador.jpeg" alt="Ícone de computador" style="max-height: 40%;">
+                <h3 class="lista__item">Computador</h3>
+            </li>
+            </li>           
+                <img src="cll.jpeg" alt="Ícone de celular" style="max-height: 40%;">
+                <h3 class="lista__item">Celular</h3>
+            </li>
+        </ul>
+    </section>
+
+    <footer class="rodape">
+        <img src="img/Logo.png" alt="Alura+" class="rodape__logo">
+        <ul class="rodape__lista">
+            <li class="lista__link">
+                <a href="#">Idioma</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Dispositivos compatíveis</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Contrato de assinatura</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Politica de privacidade</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Proteção de dados no Brasil</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Anuncios personalizados</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Ajuda</a>
+            </li>
+        </ul>
+        <p class="rodape__texto">® assista as melhores pregaçôes de 2024.</p>
+        <p class="rodape__texto">God saves and frees é um serviço pago, baseado em assinatura e sujeito a termos e condições. O
+            serviço  é comercializado por, Rachel assinaturas, Rua alegria, 35 - carapicuiba, São
+            Paulo - SP, 2230-0998, Brasil e CNPJ 07.985.302/9901-30</p>
+    </footer>
+</body>
+
+</html>
